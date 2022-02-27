@@ -4,7 +4,7 @@ from django.contrib.auth.models import User
 
 
 class Patient(models.Model):
-    user = models.OneToOneField(User, on_delete=models.CASCADE)
+    Patient = models.CharField(max_length=50, blank=False, null=False, default=' ')
     age = models.PositiveIntegerField()
     bloodgroup = models.CharField(max_length=10)
     disease = models.CharField(max_length=100)

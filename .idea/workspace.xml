@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="828e3222-c642-4f63-b0e0-32eaaac9d85c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloodbank/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bloodbank/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
       <workItem from="1645905030318" duration="15000" />
       <workItem from="1645941103663" duration="54000" />
       <workItem from="1645941677344" duration="6483000" />
-      <workItem from="1645983332518" duration="7314000" />
+      <workItem from="1645983332518" duration="8656000" />
     </task>
     <servers />
   </component>

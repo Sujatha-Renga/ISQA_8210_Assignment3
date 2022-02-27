@@ -16,7 +16,7 @@ class Donar(models.Model):
                ('AB Negative', 'AB Negative'),
                ('AB Positive', 'AB Positive'),
                )
-    user = models.OneToOneField(User, on_delete=models.CASCADE)
+    Donar_name = models.CharField(max_length=50, blank=False, null=False, default=' ')
     gender = models.CharField(max_length=20, choices=choice, default='Male')
     age = models.IntegerField(validators=[MinValueValidator(18)])
     blood_group = models.CharField(max_length=20, choices=choice1, default='O Positive')
