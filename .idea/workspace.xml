@@ -3,9 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="828e3222-c642-4f63-b0e0-32eaaac9d85c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blood/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/blood/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/donor/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/donor/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patient/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/patient/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blood/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blood/migrations/0002_auto_20220227_1216.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blood/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/blood/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donor/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donor/migrations/0002_blooddonate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donor/migrations/0003_auto_20220227_1628.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patient/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patient/migrations/0002_auto_20220227_1628.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +74,8 @@
       <workItem from="1645905030318" duration="15000" />
       <workItem from="1645941103663" duration="54000" />
       <workItem from="1645941677344" duration="6483000" />
-      <workItem from="1645983332518" duration="11608000" />
+      <workItem from="1645983332518" duration="12410000" />
+      <workItem from="1646005950083" duration="2115000" />
     </task>
     <servers />
   </component>
