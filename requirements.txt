@@ -1,7 +1,7 @@
-django
+django==2.2
 django-crispy-forms
 psycopg2
-django-bootstrap
+django-bootstrap3
 djangorestframework
 pisa
 xhtml2pdf
