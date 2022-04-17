@@ -1,4 +1,0 @@
-Django
-Pillow
-Django-crispy-forms
-
